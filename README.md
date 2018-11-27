@@ -1,4 +1,4 @@
-bad-cases-java-concurrency
+Java-concurrency-use-cases
 ==========================
 
-Java并发中的一些反例
+Java并发的常见用例。
